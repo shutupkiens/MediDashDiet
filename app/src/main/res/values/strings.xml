@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diet for Depression</string>
+    <string name="app_detail">Food for Depression</string>
+    <string name="dashtext">1. Get your starch fix with whole grains and legumes. \n2. Fill up on plenty of fruits and veggies. \n3. Focus on eating fatty fish, like salmon or albacore tuna, in place of red meat. \n4. Add in healthy fats, like raw nuts and olive oil. \n5. Enjoy sweets and wine in moderation.</string>
+    <string name="medtext">1. Embrace whole grains, vegetables, and fruit. \n2. Get protein from chicken, fish, and nuts. \n3. Switch to low-fat or nonfat dairy. \n4. Limit sweets, sugary drinks, saturated fats, and alcohol.</string>
+
+</resources>
